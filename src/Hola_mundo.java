@@ -8,5 +8,7 @@
  * @author LAB-USR-CHIMBOTE
  */
 public class Hola_mundo {
-    
+     private final String nome;
+     public Hola_mundo(String nome) {this.nome = nome;}
+     
 }
